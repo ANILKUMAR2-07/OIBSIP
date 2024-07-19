@@ -15,11 +15,17 @@ help the retail business make informed decisions.
 Dataset  1 Link 🔗 Diwali Sales Data.csv
 
 Key Concepts and Challenges:
+
 •Data Loading and Cleaning: Load the retail sales dataset.
+
 •Descriptive Statistics: Calculate basic statistics (mean, median, mode, standard deviation).
+
 •Time Series Analysis: Analyze sales trends over time using time series techniques.
+
 •Customer and Product Analysis: Analyze customer demographics and purchasing behavior.
+
 •Visualization: Present insights through bar charts, line plots, and heatmaps.
+
 •Recommendations: Provide actionable recommendations based on the EDA.
 
 Learning Objectives:
@@ -43,12 +49,16 @@ are some projects to test out your data cleaning skills:
 Dataset 1 Link 🔗 
 
 Key Concepts and Challenges:
-Data Integrity: Ensuring the accuracy, consistency, and reliability of data throughout the
+•Data Integrity: Ensuring the accuracy, consistency, and reliability of data throughout the
 cleaning process.
-Missing Data Handling: Dealing with missing values by either imputing them or making informed decisions on how to handle gaps in the dataset.
-Duplicate Removal: Identifying and eliminating duplicate records to maintain data uniqueness.
-Standardization: Consistent formatting and units across the dataset for accurate analysis.
-Outlier Detection: Identifying and addressing outliers that may skew analysis or model performance.
+
+•Missing Data Handling: Dealing with missing values by either imputing them or making informed decisions on how to handle gaps in the dataset.
+
+•Duplicate Removal: Identifying and eliminating duplicate records to maintain data uniqueness.
+
+•Standardization: Consistent formatting and units across the dataset for accurate analysis.
+
+•Outlier Detection: Identifying and addressing outliers that may skew analysis or model performance.
 
 ### Project Title: Predicting House Prices with Linear Regression
 
@@ -66,10 +76,15 @@ The objective of this project is to build a predictive model using linear regres
 Key Concepts and Challenges:
 
 •Data Collection: Obtain a dataset with numerical features and a target variable for prediction.
+
 •Data Exploration and Cleaning: Explore the dataset to understand its structure, handle missing values, and ensure data quality.
+
 •Feature Selection: Identify relevant features that may contribute to the predictive model.
+
 •Model Training: Implement linear regression using a machine learning library (e.g., Scikit-Learn).
+
 •Model Evaluation: Evaluate the model's performance on a separate test dataset using metrics such as Mean Squared Error or R-squared.
+
 •Visualization: Create visualizations to illustrate the relationship between the predicted and
 actual values.
 
@@ -77,7 +92,9 @@ actual values.
 Learning Objectives:
 
 •Understanding of linear regression concepts.
+
 •Practical experience in implementing a predictive model.
+
 •Model evaluation and interpretation skills
 
 
@@ -100,10 +117,12 @@ Dataset 1 Link 🔗
 
 Key Concepts and Challenges:
 
-•Classifier Models: Utilizing Random Forest, Stochastic Gradient Descent, and Support
-•Vector Classifier (SVC) for wine quality prediction.
+•Classifier Models: Utilizing Random Forest, Stochastic Gradient Descent, and Support Vector Classifier (SVC) for wine quality prediction.
+
 •Chemical Qualities: Analyzing features like density and acidity as predictors for wine quality.
+
 •Data Analysis Libraries: Employing Pandas for data manipulation and Numpy for array operations.
+
 •Data Visualization: Using Seaborn and Matplotlib for visualizing patterns and insights in the
 dataset.
 
@@ -120,19 +139,17 @@ Description:
 
 Clean, categorize, and visualize Google Play Store data to understand app market dynamics.
 Gain in-depth insights into the Android app market by leveraging data analytics, visualization,and enhanced interpretation skills.
-•Data Preparation:
-Clean and correct data types for accuracy.
-•Category Exploration:
-Investigate app distribution across categories.
+•Data Preparation: Clean and correct data types for accuracy.
 
-•Metrics Analysis: 
-Examine app ratings, size, popularity, and pricing trends.
-•Sentiment Analysis:
-Assess user sentiments through reviews.
-•Interactive Visualization:
-Utilize code for compelling visualizations.
-•Skill Enhancement:
-Integrate insights from the "Understanding Data Visualization" course.
+•Category Exploration: Investigate app distribution across categories.
+
+•Metrics Analysis: Examine app ratings, size, popularity, and pricing trends.
+
+•Sentiment Analysis: Assess user sentiments through reviews.
+
+•Interactive Visualization: Utilize code for compelling visualizations.
+
+•Skill Enhancement: Integrate insights from the "Understanding Data Visualization" course.
 
 
 
