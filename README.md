@@ -46,7 +46,7 @@ data within a dataset. Messy data leads to unreliable outcomes. Cleaning data is
 part of data analysis, and demonstrating your data cleaning skills is key to landing a job. Here
 are some projects to test out your data cleaning skills: 
 
-Dataset 1 Link 🔗 
+Dataset 1 Link 🔗 Diwali Sales Data.csv
 
 Key Concepts and Challenges:
 •Data Integrity: Ensuring the accuracy, consistency, and reliability of data throughout the
@@ -65,7 +65,7 @@ cleaning process.
 Idea: Predicting House Prices with Linear Regression
 
 
-Dataset Link 🔗 
+Dataset Link 🔗 https://github.com/ANILKUMAR2-07/OIBSIP/blob/c8dbef93c50700ccfab0d957f7a942fe0cace25b/kc_house_data.csv
 
 
 Description:
@@ -112,7 +112,7 @@ encompasses diverse chemical attributes, including density and acidity, which se
 features for three distinct classifier models.
 
 
-Dataset 1 Link 🔗 
+Dataset 1 Link 🔗 https://github.com/ANILKUMAR2-07/OIBSIP/blob/c8dbef93c50700ccfab0d957f7a942fe0cace25b/WineQuality.csv
 
 
 Key Concepts and Challenges:
@@ -132,7 +132,7 @@ dataset.
 Idea: Unveiling the Android App Market: Analyzing Google Play Store Data
 
 
-Dataset 1 Link 🔗 
+Dataset 1 Link 🔗 https://github.com/ANILKUMAR2-07/OIBSIP/blob/c8dbef93c50700ccfab0d957f7a942fe0cace25b/googleplaystore.csv.zip
 
 
 Description:
